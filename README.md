@@ -1,3 +1,6 @@
+# Deep Learning Framework for Predicting Drug Mechanisms of Action
+ 
+
 The goal of modern drug discovery and development is to find molecules that can alter biological pathways. Scientists identify target proteins associated with a disease which can be regulated through therapeutics. The specific biological activity through which a drug produces a pharmacological effect is defined as its Mechanism of Action (MOA). 
 
 For example, the painkiller ibuprofen inhibits the production of cyclooxygenase (COX) enzymes, a protein that synthesizes prostaglandins. With fewer prostaglandins in the body, pain and fever decrease. Thus, ibuprofen’s MOA is classified as a COX inhibitor. While target-based approaches are efficient, it is still a resource-intensive process. Compounds must be validated with cell-based assays and high throughput testing, both of which are often slow and costly.
